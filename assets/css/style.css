@@ -64,6 +64,7 @@ header.scrolled { box-shadow: 0 4px 18px rgba(0, 0, 0, .08); }
   transition: color .15s ease, transform .15s ease;
 }
 .top-icons a svg { width: 20px; height: 20px; display: block; }
+.top-icons a.chess-icon { margin-left: -2px; margin-right: 2px; }
 .top-icons a:hover { color: var(--link); }
 .top-icons a:hover svg { transform: scale(1.1); }
 
