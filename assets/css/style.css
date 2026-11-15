@@ -6,11 +6,11 @@
 }
 [data-theme="light"] {
   --bg: #fff; --fg: #111827; --muted: #4b5563;
-  --link: #e87722; --link-hover: #e87722; --border: #e5e7eb; --card: #fafafa;
+  --link: #b380d9; --link-hover: #b380d9; --border: #e5e7eb; --card: #fafafa;
 }
 [data-theme="dark"] {
-  --bg: #0b1020; --fg: #e5e7eb; --muted: #9aa4b2;
-  --link: #e87722; --link-hover: #e87722; --border: #1f2937; --card: #10172a;
+  --bg: #000; --fg: #e5e7eb; --muted: #9aa4b2;
+  --link: #b380d9; --link-hover: #b380d9; --border: #1f2937; --card: #0a0a0a;
 }
 
 html, body {
