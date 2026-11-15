@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CV · Matthias Pawlik</title>
+  <meta name="description" content="Academic curriculum vitae of Matthias Pawlik" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚛️</text></svg>">
+  <script>
+    try {
+      var t = localStorage.getItem("theme");
+      document.documentElement.setAttribute("data-theme",
+        t || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"));
+    } catch (e) {}
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <noscript><style>.reveal{opacity:1;transform:none}</style></noscript>
+  <script defer src="assets/js/main.js"></script>
+</head>
+<body>
+  <main class="container">
+    <section id="cv">
+      <h1>Curriculum Vitae</h1>
+      <p class="intro">My academic CV as a PDF.</p>
+
+      <div class="btn-row">
+        <a class="btn" href="assets/pdf/Matthias_Pawlik_CV.pdf" download>Download PDF</a>
+        <a class="btn" href="assets/pdf/Matthias_Pawlik_CV.pdf" target="_blank" rel="noopener">Open in new tab</a>
+        <button class="btn" id="pdfInvert" title="Invert the PDF colours in night mode">Dark PDF</button>
+      </div>
+
+      <div class="pdf-wrap reveal">
+        <object class="pdf-frame" data="assets/pdf/Matthias_Pawlik_CV.pdf#view=FitH" type="application/pdf">
+          <p style="padding:24px">Your browser cannot display the PDF here.
+            <a href="assets/pdf/Matthias_Pawlik_CV.pdf">Download the CV</a>.</p>
+        </object>
+        <div class="pdf-fallback">
+          <p>PDF preview is not available on small screens.</p>
+          <a class="btn" href="assets/pdf/Matthias_Pawlik_CV.pdf" target="_blank" rel="noopener">Open CV (PDF)</a>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
