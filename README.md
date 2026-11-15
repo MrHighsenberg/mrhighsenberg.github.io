@@ -1,21 +1,31 @@
 <div align="center">
 
-[📧 Email](mailto:matthias.pawlik@tum.de) · [🐙 GitHub](https://github.com/MrHighsenberg) · [💼 LinkedIn](https://www.linkedin.com/in/matthias-pawlik)
+<p>
+<a href="mailto:matthias.pawlik@tum.de">📧 Email</a> ·
+<a href="https://github.com/MrHighsenberg">🐙 GitHub</a> ·
+<a href="https://www.linkedin.com/in/matthias-pawlik">💼 LinkedIn</a>
+</p>
 
-[**Home**](#) · [Research](#research) · [Teaching & Schools](#teaching--schools) · [Awards](#awards--grants) · [CV](./assets/pdf/Matthias_Pawlik_CV.pdf)
+<p>
+<a href="#"><b>Home</b></a> ·
+<a href="#research">Research</a> ·
+<a href="#teaching--schools">Teaching &amp; Schools</a> ·
+<a href="#awards--grants">Awards</a> ·
+<a href="assets/pdf/Matthias_Pawlik_CV.pdf">CV</a>
+</p>
 
-<br>
+<img src="assets/img/profile.jpg" alt="Matthias Pawlik" width="180" style="border-radius:50%;">
 
-<img src="./assets/img/profile.jpg" alt="Profile picture of Matthias Pawlik" width="180" style="border-radius:50%;">
+<p>matthias.pawlik@tum.de</p>
 
-matthias.pawlik@tum.de
+<h1>Matthias Pawlik</h1>
 
-# Matthias Pawlik
+<p>
+<b>MSc Quantum Science and Technology (MQST)</b><br>
+Technical University of Munich (TUM) &amp; Ludwig Maximilian University of Munich (LMU)
+</p>
 
-**MSc Quantum Science and Technology (MQST)**
-Technical University of Munich (TUM) & Ludwig Maximilian University of Munich (LMU)
-
-*Last updated: November 2026*
+<p><i>Last updated: November 2026</i></p>
 
 </div>
 
@@ -46,20 +56,20 @@ Currently, I am working on **information scrambling in open quantum many-body sy
 
 ### Selected work
 
-**Information scrambling in open quantum many-body systems**
-Master's project · Chair of Theoretical Nanophysics, LMU · *in progress*
+**Information scrambling in open quantum many-body systems**<br>
+Master's project · Chair of Theoretical Nanophysics, LMU · *in progress*<br>
 Supervisor: Dr. Sebastian Paeckel · Prof. Dr. Ulrich Schollwöck
 
-**Tensor network renormalization for dissipative quantum systems**
-Research internship · ICFO, Castelldefels · Group of Prof. Dr. Antonio Acín · 2025
+**Tensor network renormalization for dissipative quantum systems**<br>
+Research internship · ICFO, Castelldefels · Group of Prof. Dr. Antonio Acín · 2025<br>
 Implemented a tensor network renormalization method based on semidefinite programming and adapted it to efficiently and numerically certify steady-state observables of dissipative quantum systems.
 
-**Circuits of Round-a-Face Quantum Channels: An Extension of the DUIRF Model**
-Bachelor's thesis (Grade: 1.0) · Max Planck Institute of Quantum Optics, Theory Division of Prof. Dr. Ignacio Cirac · 2024
+**Circuits of Round-a-Face Quantum Channels: An Extension of the DUIRF Model**<br>
+Bachelor's thesis (Grade: 1.0) · Max Planck Institute of Quantum Optics, Theory Division of Prof. Dr. Ignacio Cirac · 2024<br>
 Supervisors: Dr. Georgios Styliaris (MPQ) · Prof. Dr. Jan von Delft (LMU)
 
-**Space-efficient QAOA for the Traveling Salesperson Problem**
-Research assistant · Quantum Applications and Research Laboratory (QAR-Lab), Munich · 2024
+**Space-efficient QAOA for the Traveling Salesperson Problem**<br>
+Research assistant · Quantum Applications and Research Laboratory (QAR-Lab), Munich · 2024<br>
 Within the QCHALLenge project, designed and implemented a QAOA circuit scheme using binary encoding of feasible solutions, applied to logistics and production line management.
 
 ---
@@ -78,12 +88,14 @@ Within the QCHALLenge project, designed and implemented a QAOA circuit scheme us
 ## Teaching & Schools
 
 **Tutoring (LMU)**
+
 - Classical Mechanics, Winter 2026/27
 - Quantum Mechanics, Winter 2025/26
 - Atomic and Molecular Physics, Summer 2025
 - Mathematical Methods for Theoretical Physics, Winter 2023/24
 
 **Schools & Seminars**
+
 - European Tensor Networks School 2026, Isaac Newton Institute
 - Bad Honnef Physics School 2026, Quantum Machine Learning
 - Arnold Sommerfeld School 2025, LMU
@@ -122,6 +134,10 @@ Within the QCHALLenge project, designed and implemented a QAOA circuit scheme us
 
 <div align="center">
 
-[📧 Email](mailto:matthias.pawlik@tum.de) · [🐙 GitHub](https://github.com/MrHighsenberg) · [💼 LinkedIn](https://www.linkedin.com/in/matthias-pawlik)
+<p>
+<a href="mailto:matthias.pawlik@tum.de">📧 Email</a> ·
+<a href="https://github.com/MrHighsenberg">🐙 GitHub</a> ·
+<a href="https://www.linkedin.com/in/matthias-pawlik">💼 LinkedIn</a>
+</p>
 
 </div>
