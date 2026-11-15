@@ -6,11 +6,11 @@
 }
 [data-theme="light"] {
   --bg: #fff; --fg: #111827; --muted: #4b5563;
-  --link: #b380d9; --link-hover: #b380d9; --border: #e5e7eb; --card: #fafafa;
+  --link: #6b8f24; --link-hover: #6b8f24; --border: #e5e7eb; --card: #fafafa;
 }
 [data-theme="dark"] {
   --bg: #000; --fg: #e5e7eb; --muted: #9aa4b2;
-  --link: #b380d9; --link-hover: #b380d9; --border: #1f2937; --card: #0a0a0a;
+  --link: #6b8f24; --link-hover: #6b8f24; --border: #1f2937; --card: #0a0a0a;
 }
 
 html, body {
@@ -78,11 +78,6 @@ header.scrolled { box-shadow: 0 4px 18px rgba(0, 0, 0, .08); }
   box-shadow: 0 8px 24px rgba(0, 0, 0, .08);
 }
 .portrait { width: var(--avatar); display: flex; flex-direction: column; align-items: center; gap: 10px; }
-.email-copy {
-  width: 100%; text-align: center; border: 0; background: 0; padding: 0; cursor: pointer;
-  font: 500 14px/1.4 Inter, system-ui, sans-serif; color: var(--fg); overflow-wrap: anywhere;
-}
-.email-copy:hover { color: var(--link); text-decoration: underline; }
 .prose { text-align: justify; }
 .rotator {
   display: inline-block; color: var(--link); font-weight: 600;

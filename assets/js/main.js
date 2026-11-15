@@ -51,16 +51,6 @@
     onScroll();
     window.addEventListener("scroll", onScroll, { passive: true });
 
-    // Click to copy email
-    const mail = document.getElementById("emailCopy");
-    if (mail) mail.addEventListener("click", () => {
-      const t = mail.textContent;
-      navigator.clipboard.writeText(t).then(() => {
-        mail.textContent = "Copied!";
-        setTimeout(() => (mail.textContent = t), 1200);
-      });
-    });
-
     // Scroll reveal
     const items = document.querySelectorAll(".reveal");
     if ("IntersectionObserver" in window && !reduce) {
