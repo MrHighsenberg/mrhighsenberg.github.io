@@ -1,7 +1,7 @@
 (function () {
   const root = document.documentElement;
   const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  const page = location.pathname.split("/").pop() || "index.html";
+  const page = location.pathname.split("/").pop() || "home.html";
 
   const nav = (href, label) =>
     `<a href="${href}" class="${page === href ? "active" : ""}">${label}</a>`;
@@ -16,7 +16,7 @@
       ${icon("https://www.linkedin.com/in/matthias-pawlik", "LinkedIn", "M4.98 3.5A2.5 2.5 0 1 1 0 3.5a2.5 2.5 0 0 1 4.98 0ZM.5 8.5h4V23h-4V8.5Zm8 0h3.8v2h.05c.53-1 1.82-2.05 3.75-2.05 4 0 4.75 2.63 4.75 6.05V23h-4v-6.5c0-1.55-.03-3.55-2.17-3.55-2.17 0-2.5 1.7-2.5 3.45V23h-4V8.5Z")}
     </div>
     <nav class="menu">
-      ${nav("index.html", "Home")}
+      ${nav("home.html", "Home")}
       ${nav("cv.html", "CV")}
       <button class="toggle" id="themeToggle" aria-label="Toggle night mode"></button>
     </nav>
